@@ -1,0 +1,1 @@
+{"c":["app/layout","app/events/page","webpack"],"r":[],"m":["(app-pages-browser)/./mocks/eventsMocks.ts","(app-pages-browser)/./node_modules/@apollo/client/testing/core/mocking/mockLink.js","(app-pages-browser)/./node_modules/@apollo/client/testing/react/MockedProvider.js"]}
