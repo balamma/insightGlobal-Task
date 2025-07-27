@@ -9,11 +9,12 @@
    npm run dev
 ## Frontend (Next.js App Router)
 
-    Navigate to next-app/
+1. Navigate to next-app/
+2. Run
+ ```bash
+   npm install
+ npm run dev
 
-    Run:
-
-npm install
-npm run dev
+ 
 
 App runs at http://localhost:3000
