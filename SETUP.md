@@ -1,13 +1,19 @@
-# SETUP
+# Setup Instructions
 
-## Requirements
-- Node.js ≥ 18.x
+## Backend (GraphQL): graphql-server
 
----
+1. Navigate to `server/`
+2. Run:
+   ```bash
+   npm install
+   npm run dev
+## Frontend (Next.js App Router)
 
-## 1. Backend (GraphQL Server)
+    Navigate to next-app/
 
-### 📁 Navigate to the `server` folder:
+    Run:
 
-```bash
-cd server
+npm install
+npm run dev
+
+App runs at http://localhost:3000
