@@ -14,8 +14,8 @@
 2. Run
  ```bash
    npm install
- npm run dev
+   npm run dev
 
  
 
-App runs at http://localhost:3000
+  App runs at http://localhost:3000
