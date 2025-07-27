@@ -7,6 +7,7 @@
    ```bash
    npm install
    npm run dev
+   App runs at http://localhost:4000
 ## Frontend (Next.js App Router)
 
 1. Navigate to next-app/
