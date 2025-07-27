@@ -2,7 +2,7 @@
 
 ## Backend (GraphQL): graphql-server
 
-1. Navigate to `server/`
+1. Navigate to graphql-server/`
 2. Run:
    ```bash
    npm install
