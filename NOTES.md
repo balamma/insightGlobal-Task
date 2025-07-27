@@ -3,7 +3,6 @@
 
 ---
 
-## 5. NOTES.md
 
 - In-memory store resets on server restart.
 - No form validation beyond `required`; optionally add Zod or Yup.
